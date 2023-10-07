@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#left {
+  width: 50%;
+  height: 100vh;
+  background: #e1f1e1;
+}
+
+#right {
+  width: 50%;
+  height: auto;
+  background: #fefe81;
+}
+#branding {
+  width: 200px;
+  height: auto;
+}
+
+#condition {
+  width: 100px;
+  height: auto;
+}
+
+#master-history {
+  display: none;
+}
+#them {
+  background: #eee562;
+}
